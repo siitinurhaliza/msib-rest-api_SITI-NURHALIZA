@@ -31,6 +31,9 @@ Proyek ini adalah sebuah REST API yang dikembangkan untuk memenuhi tugas MSIB. A
 6. **Update Produk**  
    ![UPDATE](https://github.com/siitinurhaliza/msib-rest-api_SITI-NURHALIZA/blob/master/public/img/Update.png)
 
+7. **Logout**
+8. ![LOGOUT](https://github.com/siitinurhaliza/msib-rest-api_SITI-NURHALIZA/blob/master/public/img/Logout.png)
+
 ## Instalasi
 
 1. Clone repositori ini:
